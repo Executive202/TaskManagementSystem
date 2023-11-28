@@ -1,0 +1,14 @@
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/bin/Debug/net7.0/TaskManagementSystem
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/bin/Debug/net7.0/TaskManagementSystem.deps.json
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/bin/Debug/net7.0/TaskManagementSystem.runtimeconfig.json
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/bin/Debug/net7.0/TaskManagementSystem.dll
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/bin/Debug/net7.0/TaskManagementSystem.pdb
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.AssemblyInfoInputs.cache
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.AssemblyInfo.cs
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.dll
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/refint/TaskManagementSystem.dll
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.pdb
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/TaskManagementSystem.genruntimeconfig.cache
+/Users/mac/Projects/TaskManagementSystem/TaskManagementSystem/obj/Debug/net7.0/ref/TaskManagementSystem.dll
